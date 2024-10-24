@@ -21,6 +21,6 @@
         <h4 class="font-bold text-lg">Proyecto DISECT</h4>
     </div>
     <div>
-        <a href="#" class="text-indigo-400 underline">Repositorio de github</a>
+        <a href="https://github.com/elarle/disect-page" class="text-indigo-400 underline">Repositorio de github</a>
     </div>
 </footer>
