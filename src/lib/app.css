@@ -8,10 +8,12 @@
    src: url("fonts/metropolis/Metropolis-ExtraBold.otf");
 }
 
-
 h1{
-   font-family: 'metro';
    @apply text-4xl font-extrabold tracking-tighter text-white
+}
+
+h1 span{
+   font-family: 'metro';
 }
 
 h2{
