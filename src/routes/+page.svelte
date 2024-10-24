@@ -31,7 +31,7 @@
 </section>
 
 <section>
-   <h2>Objectivos:</h2>
+   <h2>Objetivos:</h2>
    <div class="flex flex-col gap-8">
       <li>
          El objetivo del proyecto DISECT es el desarrollo de un <b>simulador físico híbrido</b> que permita el entrenamiento de profesionales sanitarios en procedimientos específicos de cirugía de trasplante de corazón. El simulador será capaz de permitir el entrenamiento de profesionales en técnicas específicas que abarquen desde la primera incisión hasta el final del trasplante. 
